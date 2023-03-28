@@ -37,6 +37,11 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    
+    "apps.web_ui",
+    "apps.youtube_comunication",
+    "apps.discord_comunication"
+    
 ]
 
 MIDDLEWARE = [
