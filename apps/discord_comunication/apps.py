@@ -3,4 +3,4 @@ from django.apps import AppConfig
 
 class DiscordComunicationConfig(AppConfig):
     default_auto_field = "django.db.models.BigAutoField"
-    name = "Discord_Comunication"
+    name = "apps.discord_comunication"
