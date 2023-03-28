@@ -9,7 +9,7 @@
   "postAttachCommand": {
     "server": "python manage.py runserver"
   },
-  "customizations": {
+/*  "customizations": {
     "codespaces": {
       "openFiles": [
         "hello_world/templates/index.html"
@@ -20,7 +20,7 @@
         "ms-python.python"
       ]
     }
-  },
+  },*/
   "portsAttributes": {
     "8000": {
       "label": "Application",
