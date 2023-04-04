@@ -38,8 +38,8 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     
-    "apps.web_ui",
-    "apps.youtube_comunication",
+    #"apps.web_ui",
+    #"apps.youtube_comunication",
     "apps.discord_comunication"
     
 ]
